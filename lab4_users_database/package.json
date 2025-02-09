@@ -1,0 +1,15 @@
+{
+  "name": "lab4_users_database",
+  "version": "1.0.0",
+  "description": "A simple user management API with MongoDB",
+  "main": "server.js",
+  "scripts": {
+    "start": "node server.js"
+  },
+  "dependencies": {
+    "express": "^4.17.1",
+    "mongoose": "^5.13.23"
+  },
+  "author": "Naomi Teklu",
+  "license": "ISC"
+}
